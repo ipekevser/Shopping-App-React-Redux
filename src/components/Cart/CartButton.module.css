@@ -1,0 +1,27 @@
+.button {
+  background-color: transparent;
+  border-color: #f2edda;
+  color: #ad9374;
+  font-size: large;
+}
+
+.button:hover,
+.button:active {
+  color: #d6a16e;
+}
+
+
+.button span {
+  margin: 0 0.5rem;
+}
+
+.badge {
+  background-color: #97714b;
+  border-radius: 30px;
+  padding: 0.15rem 1.25rem;
+  color: #523d28;
+}
+
+.button div {
+    padding: 0.5rem;
+}
